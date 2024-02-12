@@ -1,3 +1,3 @@
-# sorilee.github.io-utterances
+# sorilee.github.io-comments
 
-This repository's [Issues](https://github.com/sorilee/sorilee.github.io-utterances/issues) store comments to posts in <https://sorilee.github.io/>.
+This repository's [Discussions](https://github.com/sorilee/sorilee.github.io-comments/discussions) host comments to posts in <https://sorilee.github.io/>.
